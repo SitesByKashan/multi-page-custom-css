@@ -6,7 +6,7 @@ export default function QuirkyBars() {
     {
       category: "Quirky Bars",
       title: "BALLAY BALLAY",
-      image: "/assets/Quirky/lub.webp",
+      image: "/assets/Quirky/Lub.webp",
       price: "RS 799",
     },
     {
