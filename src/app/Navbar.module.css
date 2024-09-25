@@ -38,10 +38,9 @@
 
 .navLinks {
   display: flex;
-  justify-content: center;
+  justify-content: right;
   flex-wrap: wrap;
   margin-left: auto;
-  margin-right: auto; 
   width: auto; 
 }
 
